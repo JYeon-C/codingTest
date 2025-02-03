@@ -1,0 +1,16 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# IntelliJ IDEA 관련 파일 무시
+.idea/
+*.iml
+# Java 컴파일된 파일 무시
+*.class
+bin/
+out/
+target/
