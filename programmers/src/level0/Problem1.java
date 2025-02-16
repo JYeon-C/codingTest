@@ -2,6 +2,7 @@ package level0;
 
 import java.util.Scanner;
 
+// 나머지 구하기
 class Problem1 {
 
     // 나머지 결과 출력
